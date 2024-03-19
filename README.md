@@ -213,6 +213,9 @@ Policy 1:
 
 Policy 2:
 
+![Screenshot 2024-03-19 170250](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/a6010c01-205d-4b13-9839-28f014ed9b91)
+
+![Screenshot 2024-03-19 170405](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/dcfe4a23-13d3-4f9f-bcd0-1d4d46bc5327)
 
 
 Comparison:
@@ -221,7 +224,8 @@ Comparison:
 
 Conclusion:
 
-![image](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/fc8c1f25-c5b3-4709-bb15-151a3e93711a)
+![Screenshot 2024-03-19 170131](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/81186d9a-3185-45db-a429-208c24eb0b33)
+
 
 ## RESULT:
 
