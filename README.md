@@ -206,19 +206,14 @@ else:
 
 Policy 1:
 
-![image](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/4908449d-58c5-46d9-96f0-e334090e81f1)
+![Screenshot 2024-03-19 144925](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/93465399-e0e3-4acd-9cc2-81a407ccc323)
 
-![image](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/b5419232-5703-4396-97d2-98834f6fca48)
+![Screenshot 2024-03-19 145106](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/53a65aa1-2a94-46d2-ad9a-4d322b2dded3)
 
-![image](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/c84b3b4e-1336-4574-8d67-c7d7fb1adac5)
 
 Policy 2:
 
-![image](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/8631f2c9-ef8f-4f07-a539-03cd5dd3acc4)
 
-![image](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/6d24d855-70fd-49a6-952d-ed09f1df7306)
-
-![image](https://github.com/NivethaKumar30/rl-policy-evaluation/assets/119559844/d0230d92-90f7-4a8a-8ee5-afc4d227c48e)
 
 Comparison:
 
